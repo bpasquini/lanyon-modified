@@ -1,6 +1,8 @@
 ---
-layout: page
 title: About
+author: bpasquini
+layout: page
+permalink: /about/
 ---
 
 <p class="message">
